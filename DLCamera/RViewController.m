@@ -32,6 +32,7 @@
     DLViewController *vc = [[DLViewController alloc]init];
     vc.modalPresentationStyle = 0;
     [self presentViewController:vc animated:YES completion:nil];
+    
 }
 
 
